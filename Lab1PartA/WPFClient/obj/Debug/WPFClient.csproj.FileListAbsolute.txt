@@ -1,0 +1,15 @@
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\bin\Debug\WPFClient.exe
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\bin\Debug\WPFClient.pdb
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\WPFClient.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\App.g.cs
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\MainWindow.baml
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.cache
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\WPFClient.exe
+C:\Users\Влад\source\repos\Lab1PartA\WPFClient\obj\Debug\WPFClient.pdb

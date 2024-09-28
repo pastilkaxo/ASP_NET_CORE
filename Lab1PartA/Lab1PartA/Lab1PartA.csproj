@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="html\Task5.html" />
+    <None Remove="html\Task6.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="html\Task6.html" />
+    <Content Include="html\Task5.html" />
+  </ItemGroup>
+
+</Project>

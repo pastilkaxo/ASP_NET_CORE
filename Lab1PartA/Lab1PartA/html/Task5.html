@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>LVO</title>
+</head>
+<body>
+    <form id="myForm" > 
+        <label>Number 1:</label>
+        <input type="number" name="X"/>
+        <label>Number 2:</label>
+        <input type="number" name="Y"/>
+        <input type="submit"/>
+    </form>
+    <div>
+    <p>Result:</p>
+    <span class="resultSpan"></span>
+    </div>
+<script type="text/javascript">
+    const form = document.getElementById("myForm");
+    function sendRequest() {
+        const x = document.getElementsByName("X")[0].value;
+        const y = document.getElementsByName("Y")[0].value;
+        const res = document.getElementsByClassName("resultSpan")[0];
+
+        var xhttp = new XMLHttpRequest();
+        xhttp.open("POST", "/multy2", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.onreadystatechange = function () {
+            if (xhttp.status == 200) {
+                res.innerText = xhttp.responseText;
+
+            }
+        }
+
+        xhttp.send("X=" + x + "&Y=" + y);
+
+    }
+    form.addEventListener('submit', function(event){
+        event.preventDefault();
+        sendRequest();
+    })
+</script>
+</body>
+</html>
