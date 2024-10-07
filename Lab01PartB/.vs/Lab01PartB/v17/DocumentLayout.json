@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab01PartB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB3357E-78F6-4FA2-B817-3C87D57936ED}|Lab01PartB\\Lab01PartB.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\lab01partb\\lab01partb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB3357E-78F6-4FA2-B817-3C87D57936ED}|Lab01PartB\\Lab01PartB.csproj|solutionrelative:lab01partb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB3357E-78F6-4FA2-B817-3C87D57936ED}|Lab01PartB\\Lab01PartB.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\lab01partb\\lab01partb\\websocket\\socket.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEB3357E-78F6-4FA2-B817-3C87D57936ED}|Lab01PartB\\Lab01PartB.csproj|solutionrelative:lab01partb\\websocket\\socket.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Socket.html",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab01PartB\\Lab01PartB\\WebSocket\\Socket.html",
+              "RelativeDocumentMoniker": "Lab01PartB\\WebSocket\\Socket.html",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab01PartB\\Lab01PartB\\WebSocket\\Socket.html",
+              "RelativeToolTip": "Lab01PartB\\WebSocket\\Socket.html",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-27T18:53:01.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab01PartB\\Lab01PartB\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01PartB\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab01PartB\\Lab01PartB\\Program.cs",
+              "RelativeToolTip": "Lab01PartB\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:51:15.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

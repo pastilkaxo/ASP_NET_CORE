@@ -1,0 +1,77 @@
+﻿﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>WebSockets</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+</head>
+<body>
+    <header> <h1>Web Sockets</h1> </header>
+    <section style="width: 800px; float:left">
+        <div id="wsproperties">
+            Web Sockets поддерживается?:
+            <span id="support"></span><br />
+        </div>
+    </section>
+    <br />
+    <section style="width: 215px;border: solid;">
+        <div style="margin: 5px 5px 5px 5px">
+            <input id="bstart" type="button" value="Пуск"
+                   onclick="exe_start()" style="width: 100px" />
+            <input id="bstop" type="button" value="Стоп"
+                   onclick="exe_stop()" style="width: 100px" />
+            <textarea id="ta" rows="20" cols="25"
+                      style="text-align: center;" readonly>
+            </textarea>
+        </div>
+    </section>
+    <div style="margin:25px;">
+       <button id="bclear">Очистить</button>
+    </div>
+    <script>
+        var ta;
+        var ws = null;
+        var bstart;
+        var bstop;
+        var bclear = document.getElementById('bclear');
+
+        window.onload = function () {
+            if (Modernizr.websockets) { // Проверяет роботоспособность Web Sockets API в браузере
+                WriteMessage("support", "да ");
+                ta = document.getElementById('ta');
+                bstart = document.getElementById("bstart");
+                bstop = document.getElementById("bstop");
+                bstart.disabled = false;
+                bstop.disabled = true;
+            }
+        }
+        function WriteMessage(idspan, txt) {
+            var span = document.getElementById(idspan);
+            span.innerHTML = txt;
+        }
+        function exe_start() {
+            if (ws == null) { // проверка наличия открытого соеденения
+                ws = new WebSocket('ws://localhost:5137/ws');
+                ws.onopen = function () { ws.send('Соединение'); } // соеденение октрыто -> отправляется сообщение серверу
+                ws.onclose = function (s) { console.log('onclose ', s); } // соеденение закрыто
+                ws.onmessage = function (evt) { ta.innerHTML += '+\n' + evt.data; } // от сервера поступило сообщение
+                bstart.disabled = true;
+                bstop.disabled = false;
+            }
+        }
+        function exe_stop() {
+            ws.close(3001, 'stopapplication'); // закрытие соеденения  пользовательский код и текстовое сообщение причина
+            ws = null;
+            bstart.disabled = false;
+            bstop.disabled = true;
+        }
+
+        bclear.addEventListener('click', function () {
+            ta = document.getElementById('ta');
+            ta.innerHTML = "";
+        })
+
+    </script>
+</body>
+</html>
