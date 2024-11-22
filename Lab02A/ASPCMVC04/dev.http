@@ -1,0 +1,15 @@
+﻿@hostname=localhost
+@port=5173
+
+GET http://{{hostname}}:{{port}}/Status/S200
+
+###
+
+GET http://{{hostname}}:{{port}}/Status/S300
+
+###
+
+
+GET http://{{hostname}}:{{port}}/Status/S500
+
+###

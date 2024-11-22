@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ASPCMVC06/1.0.0": {
+        "runtime": {
+          "ASPCMVC06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASPCMVC06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

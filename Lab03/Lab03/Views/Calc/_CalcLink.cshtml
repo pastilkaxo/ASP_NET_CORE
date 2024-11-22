@@ -1,0 +1,9 @@
+﻿@{
+    // Атрибут asp-route-{value} включает подстановочный префикс маршрута
+    // <a href="/Calc/Index?operation=%2B">Sum</a>
+}
+
+<a asp-controller="Calc" asp-action="Index" asp-route-press="+" asp-route-x="0" asp-route-y="0">Sum</a>
+<a asp-controller="Calc" asp-action="Index" asp-route-press="-" asp-route-x="0" asp-route-y="0">Sub</a>
+<a asp-controller="Calc" asp-action="Index" asp-route-press="*" asp-route-x="0" asp-route-y="0">Mul</a>
+<a asp-controller="Calc" asp-action="Index" asp-route-press="/" asp-route-x="0" asp-route-y="0">Div</a>

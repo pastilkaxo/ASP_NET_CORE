@@ -1,0 +1,42 @@
+﻿@{
+    Layout = null;
+    float? x = ViewBag.x ,  y = ViewBag.y , z = ViewBag.z;
+    string action = "Sum";
+    string press = (string)ViewBag.press;
+    switch (press)
+    {
+        case "+": action = "Sum";   break;     
+        case "-": action = "Sub";   break;
+        case "*": action = "Mul";   break;
+        case "/": action = "Div";   break;
+        default:  action = "Index"; break;
+    }
+
+
+    // Html.PartialAsync - встраивает код частичного представления в обычное
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Calc</title> 
+</head>
+<body>
+
+    @await Html.PartialAsync("_CalcLink")
+   
+    @if (!String.IsNullOrEmpty(press))
+    {
+        @using (Html.BeginForm(action, "Calc", FormMethod.Post))
+        {
+            <p>
+                @await Html.PartialAsync("_Calc")
+                <input type="submit" name="press" value="@press" />
+            </p>
+            <p>   @((string)ViewBag.Error)  </p>
+        }
+    }
+
+</body>
+</html>
