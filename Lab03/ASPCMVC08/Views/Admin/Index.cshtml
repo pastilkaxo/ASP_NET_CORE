@@ -1,0 +1,47 @@
+﻿@model List<ASPCMVC08.Models.UserRolesViewModel>
+
+@{
+    Layout = "/Areas/Identity/Pages/Shared/_Layout.cshtml";
+    ViewBag.Title = "Admin Panel";
+}
+
+<h2>Admin Panel</h2>
+
+<p>Welcome, @ViewBag.CurrentUserName!</p>
+<p>Your roles: @string.Join(", ", ViewBag.CurrentUserRoles as IList<string>)</p>
+
+<hr />
+
+<h3>Users and their Roles</h3>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <tr>
+        <th>User Name</th>
+        <th>Roles</th>
+    </tr>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.UserName</td>
+            <td>@string.Join(", ", user.Roles)</td>
+        </tr>
+    }
+</table>
+
+<hr />
+
+<h3>Admin Functions</h3>
+<ul>
+    <li><a href="@Url.Action("CreateUser", "Admin")">Create New User</a></li>
+    <li><a href="@Url.Action("DeleteUser", "Admin")">Delete User</a></li>
+    <li><a href="@Url.Action("Assign", "Admin")">Assign Role to User</a></li>
+    <li><a href="@Url.Action("CreateRole", "Admin")">Create New Role</a></li>
+    <li><a href="@Url.Action("DeleteRole", "Admin")">Delete Role</a></li>
+</ul>
+
+<hr />
+
+<p>
+    <a href="@Url.Action("Index", "Home")">Home</a> |
+    <a href="@Url.Action("SignOut", "Admin", new { returnController = "Home", returnAction = "Index" })">Sign Out</a>
+</p>

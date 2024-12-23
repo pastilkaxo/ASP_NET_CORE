@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab02A\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B\u0421\u0422\u0420\u0412\u041F\\Lab02A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29738EAD-BD4B-413F-B915-7EDE5E5FF87A}|ASPCMVC07\\ASPCMVC07.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\lab02a\\aspcmvc07\\controllers\\taresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29738EAD-BD4B-413F-B915-7EDE5E5FF87A}|ASPCMVC07\\ASPCMVC07.csproj|solutionrelative:aspcmvc07\\controllers\\taresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3A6670C-0B77-4792-BFBA-983A8533B5D8}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\\u043B\u0430\u0431\u044B\u0441\u0442\u0440\u0432\u043F\\lab02a\\aspcmvc08\\controllers\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6670C-0B77-4792-BFBA-983A8533B5D8}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\controllers\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20986F28-5251-4990-9C39-D1E4503C274E}|ASPCMVC06\\ASPCMVC06.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\lab02a\\aspcmvc06\\controllers\\tmresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20986F28-5251-4990-9C39-D1E4503C274E}|ASPCMVC06\\ASPCMVC06.csproj|solutionrelative:aspcmvc06\\controllers\\tmresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20986F28-5251-4990-9C39-D1E4503C274E}|ASPCMVC06\\ASPCMVC06.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\lab02a\\aspcmvc06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20986F28-5251-4990-9C39-D1E4503C274E}|ASPCMVC06\\ASPCMVC06.csproj|solutionrelative:aspcmvc06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3A6670C-0B77-4792-BFBA-983A8533B5D8}|ASPCMVC08\\ASPCMVC08.csproj|c:\\users\\\u0432\u043B\u0430\u0434\\desktop\\\u043B\u0430\u0431\u044B\u0441\u0442\u0440\u0432\u043F\\lab02a\\aspcmvc08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A6670C-0B77-4792-BFBA-983A8533B5D8}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,41 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TMResearch.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab02A\\ASPCMVC06\\Controllers\\TMResearch.cs",
-              "RelativeDocumentMoniker": "ASPCMVC06\\Controllers\\TMResearch.cs",
-              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab02A\\ASPCMVC06\\Controllers\\TMResearch.cs",
-              "RelativeToolTip": "ASPCMVC06\\Controllers\\TMResearch.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T06:39:48.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab02A\\ASPCMVC06\\Program.cs",
-              "RelativeDocumentMoniker": "ASPCMVC06\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab02A\\ASPCMVC06\\Program.cs",
-              "RelativeToolTip": "ASPCMVC06\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAzwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T18:57:21.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TAResearch.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab02A\\ASPCMVC07\\Controllers\\TAResearch.cs",
-              "RelativeDocumentMoniker": "ASPCMVC07\\Controllers\\TAResearch.cs",
-              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\Lab02A\\ASPCMVC07\\Controllers\\TAResearch.cs",
-              "RelativeToolTip": "ASPCMVC07\\Controllers\\TAResearch.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAuwDUAAAAJAAAA",
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B\u0421\u0422\u0420\u0412\u041F\\Lab02A\\ASPCMVC08\\Controllers\\Admin.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Controllers\\Admin.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B\u0421\u0422\u0420\u0412\u041F\\Lab02A\\ASPCMVC08\\Controllers\\Admin.cs",
+              "RelativeToolTip": "ASPCMVC08\\Controllers\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T18:05:11.562Z",
+              "WhenOpened": "2024-11-22T08:26:50.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B\u0421\u0422\u0420\u0412\u041F\\Lab02A\\ASPCMVC08\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B\u0421\u0422\u0420\u0412\u041F\\Lab02A\\ASPCMVC08\\Program.cs",
+              "RelativeToolTip": "ASPCMVC08\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:26:05.621Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "/Areas/Identity/Pages/Shared/_Layout.cshtml";
+    ViewBag.Title = "Home Page";
+    var userName = User.Identity.IsAuthenticated ? User.Identity.Name : "Гость";
+}
+
+<h2>Welcome, @userName!</h2>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <p>Your roles: @string.Join(", ", User.Claims.Where(c => c.Type == System.Security.Claims.ClaimTypes.Role).Select(c => c.Value))</p>
+    <a href="@Url.Action("ChangePassword", "Admin")">Change Password</a>
+    <a href="@Url.Action("SignOut", "Admin")"> Sign Out </a>
+    @if (User.IsInRole("Administrator"))
+    {
+        <a href="@Url.Action("Index", "Admin")"> Admin Panel </a>
+    }
+    @if (User.IsInRole("Master") || User.IsInRole("Employee"))
+    {
+        <a href="@Url.Action("Index", "Calc")"> Calculator </a>
+    }
+    @if (!User.IsInRole("Administrator"))
+    {
+        <a class="btn-danger" href="@Url.Action("Unsubscribe", "Admin")"> Delete account </a>
+    }
+}
+else
+{
+    <a href="@Url.Action("Register", "Admin")">Register</a>
+
+    <a href="@Url.Action("SignIn", "Admin")"> Sign In </a>
+}

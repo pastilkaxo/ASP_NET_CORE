@@ -1,0 +1,9 @@
+﻿@{
+    Layout = "/Areas/Identity/Pages/Shared/_Layout.cshtml";
+    ViewBag.Title = "Error";
+}
+<h2>Error</h2>
+
+<p>@ViewBag.Message</p>
+
+<a href="@Url.Action((string)ViewBag.ReturnAction, (string)ViewBag.ReturnController)">Назад</a>

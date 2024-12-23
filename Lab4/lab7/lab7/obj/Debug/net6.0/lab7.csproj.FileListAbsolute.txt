@@ -1,0 +1,229 @@
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\appsettings.Development.json
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\appsettings.json
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\lab7.staticwebassets.runtime.json
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\lab7.exe
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\lab7.deps.json
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\lab7.runtimeconfig.json
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\lab7.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\lab7.pdb
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfoInputs.cache
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfo.cs
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.CoreCompileInputs.cache
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.MvcApplicationPartsAssemblyInfo.cache
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.RazorAssemblyInfo.cache
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.RazorAssemblyInfo.cs
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets.build.json
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets.development.json
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.lab7.Microsoft.AspNetCore.StaticWebAssets.props
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.build.lab7.props
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab7.props
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab7.props
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets.pack.json
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\scopedcss\bundle\lab7.styles.css
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\scopedcss\projectbundle\lab7.bundle.scp.css
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\refint\lab7.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.pdb
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.genruntimeconfig.cache
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\ref\lab7.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Humanizer.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.AssemblyReference.cache
+D:\3 курс\Лабы\СТР Web\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.Up2Date
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\appsettings.json
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\lab7.staticwebassets.runtime.json
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\lab7.exe
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\lab7.deps.json
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\lab7.runtimeconfig.json
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\lab7.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\lab7.pdb
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfoInputs.cache
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfo.cs
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.RazorAssemblyInfo.cache
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.RazorAssemblyInfo.cs
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.lab7.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.build.lab7.props
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab7.props
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab7.props
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\scopedcss\bundle\lab7.styles.css
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\scopedcss\projectbundle\lab7.bundle.scp.css
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.Up2Date
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\refint\lab7.dll
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.pdb
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\lab7.genruntimeconfig.cache
+C:\Users\Влад\Desktop\lab7\lab7\lab7\obj\Debug\net6.0\ref\lab7.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\appsettings.json
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\lab7.staticwebassets.runtime.json
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\lab7.exe
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\lab7.deps.json
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\lab7.runtimeconfig.json
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\lab7.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\lab7.pdb
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfoInputs.cache
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfo.cs
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.RazorAssemblyInfo.cache
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.RazorAssemblyInfo.cs
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.sourcelink.json
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.lab7.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.build.lab7.props
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab7.props
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab7.props
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\scopedcss\bundle\lab7.styles.css
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\scopedcss\projectbundle\lab7.bundle.scp.css
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.Up2Date
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\refint\lab7.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.pdb
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\lab7.genruntimeconfig.cache
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\ref\lab7.dll
+C:\Users\Влад\Desktop\ЛабыСТРВП\lab7\lab7\lab7\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css

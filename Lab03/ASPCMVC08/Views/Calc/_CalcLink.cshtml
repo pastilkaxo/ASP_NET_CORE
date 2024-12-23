@@ -1,0 +1,12 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    // Атрибут asp-route-{value} включает подстановочный префикс маршрута
+    // <a href="/Calc/Index?operation=%2B">Sum</a>
+}
+
+<p class="d-flex">
+    <a class="nav-link btn-link" asp-controller="Calc" asp-action="Index" asp-route-press="+" asp-route-x="0" asp-route-y="0">Sum</a>
+    <a class="nav-link btn-link" asp-controller="Calc" asp-action="Index" asp-route-press="-" asp-route-x="0" asp-route-y="0">Sub</a>
+    <a class="nav-link btn-link" asp-controller="Calc" asp-action="Index" asp-route-press="*" asp-route-x="0" asp-route-y="0">Mul</a>
+    <a class="nav-link btn-link" asp-controller="Calc" asp-action="Index" asp-route-press="/" asp-route-x="0" asp-route-y="0">Div</a>
+</p>

@@ -1,0 +1,14 @@
+﻿@{
+    Layout = "/Areas/Identity/Pages/Shared/_Layout.cshtml";
+    ViewBag.Title = "Sign In";
+}
+<div class="text-center">
+    <h1 class="h1">Login</h1>
+    <form  method="post" action="/Admin/SignIn">
+            <label class="text-black w-25">Username:</label>
+            <input class="form-control" name="username" />
+            <label class="text-black w-25">Password:</label>
+            <input class="form-control" type="password" name="password" />
+            <button type="submit" class="btn btn-success">Submit</button>
+    </form>
+</div>

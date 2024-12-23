@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "/Areas/Identity/Pages/Shared/_Layout.cshtml";
+    ViewBag.Title = "Assign Panel";
+}
+<h2>Assign Role to User</h2>
+
+<form asp-action="Assign" method="post">
+    <input type="hidden" name="ReturnController" value="@ViewBag.ReturnController" />
+    <input type="hidden" name="ReturnAction" value="@ViewBag.ReturnAction" />
+
+    <div>
+        <label>User Name</label>
+        <input type="text" name="UserName" required />
+    </div>
+    <div>
+        <label>Role Name</label>
+        <input type="text" name="RoleName" required />
+    </div>
+    <button type="submit">Assign Role</button>
+</form>

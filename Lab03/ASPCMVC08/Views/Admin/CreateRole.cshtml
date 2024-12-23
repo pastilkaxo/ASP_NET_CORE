@@ -1,0 +1,17 @@
+﻿@{
+    Layout = "/Areas/Identity/Pages/Shared/_Layout.cshtml";
+    ViewBag.Title = "Create Role";
+}
+
+<h2>Create Role</h2>
+
+<form asp-action="CreateRole" method="post">
+    <input type="hidden" name="ReturnController" value="@ViewBag.ReturnController" />
+    <input type="hidden" name="ReturnAction" value="@ViewBag.ReturnAction" />
+
+    <div>
+        <label>Role Name</label>
+        <input type="text" name="RoleName" required />
+    </div>
+    <button type="submit">Create Role</button>
+</form>

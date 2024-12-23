@@ -1,0 +1,117 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>--UWSR--</h1>
+
+<script>
+    function toggleForm(formId) {
+        var form = document.getElementById(formId);
+        if (form) {
+            form.style.display = form.style.display === 'none' ? 'block' : 'none';
+        }
+    }
+</script>
+
+@if (ViewBag.Mode == "guest")
+{
+    <form method="post" action="/Home/SwitchMode" style="margin-bottom: 10px;">
+        <input type="text" name="email" placeholder="Введите gmail" required style="margin-right: 5px;" />
+        <input type="password" name="accessKey" placeholder="Введите ключ" required style="margin-right: 5px;" />
+        <button type="submit">To Owner</button>
+    </form>
+
+    <form method="get" action="/Home/Index" style="margin-bottom: 10px;">
+        <input type="text" name="filterKeyword" value="@ViewBag.FilterKeyword" placeholder="Filter" style="margin-right: 5px;" />
+        <button type="submit">Filter</button>
+    </form>
+}
+else
+{
+    <form method="post" action="/Home/SwitchMode" style="margin-bottom: 10px;">
+        <input type="hidden" name="accessKey" value="guest" />
+        <button type="submit">To Guest</button>
+    </form>
+
+    <form method="get" action="/Home/Index" style="margin-bottom: 10px;">
+        <input type="text" name="filterKeyword" value="@ViewBag.FilterKeyword" placeholder="Filter" style="margin-right: 5px;" />
+        <button type="submit">Filter</button>
+    </form>
+
+    <form method="post" action="/Home/AddLink" style="margin-bottom: 10px;">
+        <input type="text" name="url" placeholder="URL" required style="margin-right: 5px;" />
+        <input type="text" name="keywords" placeholder="Keywords" required style="margin-right: 5px;" />
+        <button type="submit">Add link</button>
+    </form>
+}
+
+<h2>Links:</h2>
+<ul style="padding: 0;">
+    @foreach (var link in ViewBag.Links)
+    {
+        <li style="border: 1px solid gray; margin: 5px 0; padding: 10px;">
+            <div>
+                <a href="@link.Url" target="_blank">@link.Url</a>
+                <span>- @link.Keywords</span>
+            </div>
+
+            @if (ViewBag.Mode == "owner")
+            {
+                <div style="margin: 5px 0;">
+                    <form method="post" action="/Home/Vote" style="display: inline;">
+                        <input type="hidden" name="id" value="@link.Id" />
+                        <button type="submit" name="isUseful" value="true">+</button>
+                        <button type="submit" name="isUseful" value="false">-</button>
+                    </form>
+                </div>
+
+                <p>Полезно: @link.UsefulCount | Бесполезно: @link.UselessCount</p>
+
+                <button onclick="toggleForm('deleteLinkForm_' + @link.Id)">Delete</button>
+                <form id="deleteLinkForm_@link.Id" method="post" action="/Home/DeleteLink" style="display: none;">
+                    <input type="hidden" name="id" value="@link.Id" />
+                    <button type="submit">OK</button>
+                </form>
+
+                <button onclick="toggleForm('editLinkForm_' + @link.Id)">Edit</button>
+                <form id="editLinkForm_@link.Id" method="post" action="/Home/EditLink" style="display: none;">
+                    <input type="hidden" name="id" value="@link.Id" />
+                    <input type="text" name="url" value="@link.Url" required style="margin-bottom: 5px;" />
+                    <input type="text" name="keywords" value="@link.Keywords" required style="margin-bottom: 5px;" />
+                    <button type="submit">SAVE</button>
+                </form>
+            }
+
+            <div style="margin: 5px 0;">
+                <button onclick="toggleForm('addCommentForm_' + @link.Id)">Comment</button>
+                <form id="addCommentForm_@link.Id" method="post" action="/Home/AddComment" style="display: none;">
+                    <input type="hidden" name="linkId" value="@link.Id" />
+                    <input type="text" name="commentText" placeholder="Add comment" style="margin-bottom: 5px;" />
+                    <button type="submit">SEND</button>
+                </form>
+            </div>
+
+            <div>
+                <h4>Comments:</h4>
+                @foreach (var comment in link.Comments)
+                {
+                    <p>@comment.Text - <b>@comment.CreatedAt.ToString("dd/MM/yyyy")</b></p>
+
+                    <button onclick="toggleForm('editCommentForm_' + @comment.Id)">Update</button>
+                    <form id="editCommentForm_@comment.Id" method="post" action="/Home/EditComment" style="display: none;">
+                        <input type="hidden" name="commentId" value="@comment.Id" />
+                        <input type="text" name="newText" value="@comment.Text" required style="margin-bottom: 5px;" />
+                        <button type="submit">SAVE</button>
+                    </form>
+
+                    <button onclick="toggleForm('deleteCommentForm_' + @comment.Id)">Delete</button>
+                    <form id="deleteCommentForm_@comment.Id" method="post" action="/Home/DeleteComment" style="display: none;">
+                        <input type="hidden" name="commentId" value="@comment.Id" />
+                        <button type="submit">OK</button>
+                    </form>
+                }
+            </div>
+        </li>
+    }
+</ul>
+

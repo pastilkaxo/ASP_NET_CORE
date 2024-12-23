@@ -1,0 +1,16 @@
+﻿@{
+    Layout = "/Areas/Identity/Pages/Shared/_Layout.cshtml";
+    ViewBag.Title = "Delete User";
+}
+<h2>Delete User</h2>
+
+<form asp-action="DeleteUser" method="post">
+    <input type="hidden" name="ReturnController" value="@ViewBag.ReturnController" />
+    <input type="hidden" name="ReturnAction" value="@ViewBag.ReturnAction" />
+
+    <div>
+        <label>User Name</label>
+        <input type="text" name="UserName" required />
+    </div>
+    <button type="submit">Delete User</button>
+</form>

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Влад\\Desktop\\Lab02A\\ASPCMVC03\\ASPCMVC03.csproj",
+      "projectUniqueName": "C:\\Users\\Влад\\Desktop\\ЛабыСТРВП\\Lab02A\\ASPCMVC03\\ASPCMVC03.csproj",
       "projectName": "ASPCMVC03",
-      "projectPath": "C:\\Users\\Влад\\Desktop\\Lab02A\\ASPCMVC03\\ASPCMVC03.csproj",
+      "projectPath": "C:\\Users\\Влад\\Desktop\\ЛабыСТРВП\\Lab02A\\ASPCMVC03\\ASPCMVC03.csproj",
       "packagesPath": "C:\\Users\\Влад\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Влад\\Desktop\\Lab02A\\ASPCMVC03\\obj\\",
+      "outputPath": "C:\\Users\\Влад\\Desktop\\ЛабыСТРВП\\Lab02A\\ASPCMVC03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
