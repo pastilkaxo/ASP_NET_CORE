@@ -13,7 +13,7 @@
     }
 </script>
 
-@if (ViewBag.Mode == "guest")
+@if (ViewBag.Mode.Contains("guest"))
 {
     <form method="post" action="/Home/SwitchMode" style="margin-bottom: 10px;">
         <input type="text" name="email" placeholder="Введите gmail" required style="margin-right: 5px;" />

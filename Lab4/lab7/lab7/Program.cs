@@ -12,7 +12,7 @@ builder.Services.AddDistributedMemoryCache();  // Для хранения данных сессий в о
 // Конфигурация сессий
 builder.Services.AddSession(options =>
 {
-    options.IdleTimeout = TimeSpan.FromMinutes(30);  // Устанавливаем время бездействия пользователя, после которого сессия истечёт
+    options.IdleTimeout = TimeSpan.FromMinutes(10);  // Устанавливаем время бездействия пользователя, после которого сессия истечёт
     // options.Cookie.HttpOnly = true;  // Делаем куки сессии доступными только через HTTP 
     // options.Cookie.IsEssential = true;  // Указываем, что куки сессии важны для работы приложения
 });

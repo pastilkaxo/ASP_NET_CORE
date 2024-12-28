@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 
 public class HomeController : Controller
 {
-    
+    private static int GuestCounter = 0;
     private const string gmail = "vlad.lemeshok@gmail.com";
     private const string AccessKey = "1111"; // ключ доступа
     private const string SessionKey = "guest";  // ключ сессий
@@ -16,8 +17,30 @@ public class HomeController : Controller
         context = dbContext;
     }
 
+    private string GenerateGuestSessionId()
+    {
+        string sessionId;
+        do
+        {
+            int guestNumber = Interlocked.Increment(ref GuestCounter); 
+            sessionId = $"guest-{guestNumber}";
+        }
+        while (context.Comments.Any(c => c.SessionId == sessionId));
+
+        return sessionId;
+    }
+
     public IActionResult Index(string filterKeyword)
     {
+
+        // Проверка и установка уникального идентификатора сессии
+        var sessionId = HttpContext.Session.GetString(SessionKey);
+        if (string.IsNullOrEmpty(sessionId))
+        {
+            sessionId = GenerateGuestSessionId();
+            HttpContext.Session.SetString(SessionKey, sessionId);
+        }
+
         if (User.IsInRole("Owner"))
         {
             ViewBag.Mode = "owner";
@@ -48,7 +71,7 @@ public class HomeController : Controller
         }
         else
         {
-            HttpContext.Session.SetString(SessionKey, "guest");
+            HttpContext.Session.SetString(SessionKey,GenerateGuestSessionId());
         }
 
         return RedirectToAction("Index");
@@ -118,7 +141,7 @@ public class HomeController : Controller
         var sessionId = HttpContext.Session.GetString(SessionKey);
         if (string.IsNullOrEmpty(sessionId))
         {
-            sessionId = "guest";
+            sessionId = GenerateGuestSessionId();
             HttpContext.Session.SetString(SessionKey, sessionId);
         }
 
@@ -126,7 +149,7 @@ public class HomeController : Controller
         {
             Text = commentText,
             CreatedAt = DateTime.Now,
-            SessionId = HttpContext.Session.GetString(SessionKey),
+            SessionId = sessionId,
             LinkId = linkId
         };
 
@@ -158,6 +181,11 @@ public class HomeController : Controller
                     {
                         comment.Text = newText;
                         context.SaveChanges();
+                    }
+                    else
+                    {
+                        TempData["ErrorMessage"] = "Вы не можете изменять комментарий другого пользователя.";
+                        return RedirectToAction("Error");
                     }
                 }
             }
